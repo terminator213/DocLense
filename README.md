@@ -41,7 +41,6 @@
 
 <img src="assets/appMockups/AppWorking.gif" height="500px">
 
-</div>
 
 ## Contribution Guidelines🏗
 
