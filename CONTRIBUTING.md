@@ -1,7 +1,5 @@
-**DocLense** : It is an application which can be used to scan and save the documents via your phone.
-<p align="center"><img src="assets/doclense.png" width=45%></p>
-
-# Contributing Guidelines  
+# Contributing Guidelines [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues) 🤝🏽🍀:
+<p align="center"><img src="./readme_assets/Contribute.png" width=600></p>
   
 This documentation contains a set of guidelines to help you during the contribution process.
 
@@ -117,6 +115,24 @@ $ git push -u origin <branch_name>
 - Go to your repository in browser and click on compare and pull requests. Then add a title and description to your pull request that explains your contribution.  
 ![pullrequest](https://github.com/kanishkaa24/DocLense/blob/main/Untitled%20design%20(6).png) 
 - Voila! Your Pull Request has been submitted and will be reviewed by the moderators and merged.🥳  
+- 
+- ## Guidelines for raising a pull request:
+>
+> - Each pull request should have an appropriate and short title like "Fixed Bug in Upload Page"
+> 
+> - Describe your intended changes in the description section of the pull request (Use bullet points and phrases) 
+>
+> - Refrain from using phrases like "Hi, I am ..", "Please merge me this OPR", "Thank You..", etc. We are only interested in technical parts
+>
+> - Attach a screenshot/clip of the change(s)
+>
+> - Make sure to refer the respective issue in the respective PR using phrases like `Resolves #issue_number` or `Closes #issue_number`.  
+>
+> - Please be patient enough. The project maintainers/mentors would review it as per their schedule. Please do not start putting comments like "Please check this" etc.
+>  
+> - Although we support feedback from everyone in all phases of development, it is highly advised not to put any negative comments in other participant's pull requests.
+> 
+> - Always keep a note of the deadline. 
   
 ## Need more help?🤔  
 You can refer to the following articles on basics of Git and Github and also contact the Project Mentors, in case you are stuck:  
@@ -129,3 +145,67 @@ You can refer to the following articles on basics of Git and Github and also con
   
 ## Tip from us😇  
 It always takes time to understand and learn. So, do not worry at all. We know **you have got this**!💪
+
+
+# Open Source Program Grading
+
+
+## [Mexili Winter of Code](https://mexili.github.io/winter_of_code/#/)
+
+#### Distribution
+
+| Difficulty | Score |
+|------------|-------|
+| Easy   | 25  |
+| Medium | 50  |
+| Hard   | 100 |
+
+#### Allotment:
+
+When accepting the PR, add the following label before merging it. user=<username>:score=<score>, e.g. if the user sansyrox has filled a relevant PR and you are allotting 100 marks to him, add the following label ``user=sansyrox:score=100`` to the PR.
+ 
+## [IEEE DTU Cross Winter of Code](https://crosswoc.ieeedtu.in/)
+
+#### Distribution
+
+| Difficulty | Score |
+|------------|-------|
+| Easy   | - |
+| Medium | - |
+| Hard   | - |
+
+#### Allotment:
+
+- Add labels to PRs
+- Maintain a Contributor.MD for CrossWoC
+
+## [JGEC Winter of Code](http://jwoc2k20.tech/)
+
+#### Distribution
+
+| Difficulty | Score |
+|------------|-------|
+| Easy   | 1  |
+| Medium | 3  |
+| Hard   | 5  |
+
+#### Allotment:
+
+- Add labels to PRs [ Must add `JWOC` label]
+- Maintain an excel sheet
+
+| Mentee Name | GitHub Profile | PR Number | Easy | Medium | Hard | Total Points |
+|-------------|----------------|-----------|------|--------|------|--------------|
+
+## [GirlScript Summer of Code 2021]()
+
+| Difficulty | Intent | Score |
+|------------|--------|-------|
+| Level0  | GSSOC Minor Documentation | |
+| Level1  | GSSOC Major Documentation  | |
+| Level2  | GSSOC Bug fixing, adding small features  | |
+| Level3  | GSSOC New features, major bug fixing.  | |
+
+#### Allotment:
+
+- Add labels to PRs [ Must add `gssoc21` label]
